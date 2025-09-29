@@ -1,4 +1,4 @@
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fcd3d1c8-70c2-475a-b2ea-600fef2f3ea5" />Microservices Demo with Eureka and Load Balancing
+Microservices Demo with Eureka and Load Balancing
 
 This project demonstrates a simple microservices architecture using Spring Boot, Eureka Service Registry, and Round-Robin Load Balancing.
 It consists of three services: Eureka Server, Payment Service, and Order Service.
